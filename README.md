@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Durgesh Chaurasia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **React JS, Node JS**
+- 💬 Ask me about **JavaSript, React JS, Node JS**
 
 - 📫 How to reach me **durgeshchaurasiya993@gmail.com**
 
